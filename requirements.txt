@@ -1,0 +1,2 @@
+# Standard library used; optional dependencies for development/testing
+pytest>=7.0.0
